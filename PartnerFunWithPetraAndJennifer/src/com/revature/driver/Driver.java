@@ -11,7 +11,7 @@ public class Driver {
 		
 		System.out.println(Opie);
 		System.out.println(Nutty);
-		System.out.println("When Opie sees a squirrel, he says " + Dog.getSpeak());
+		System.out.println("When Opie sees a squirrel in Jennifer's branch, he says " + Dog.getSpeak());
 		
 	}
 
